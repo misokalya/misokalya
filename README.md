@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miso
-- 👀 Embeded, Networking, Fullstack Web & App dev.
+- 👀 Fullstack Web, App & Desktop dev., Embeded/Robotics, Networking & Cloud Eng. 
 - 🌱 I’m currently learning ML, AI
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 misokalya@yahoo.com

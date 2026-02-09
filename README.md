@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Miso
-- 👀 Fullstack Web, App & Desktop developer
-- Embeded, Robotics, Networking & Cloud Eng. 
-- 🌱 I’m currently learning ML, AI
-- 💞️ I’m looking to collaborate on anything interesting.
+- 💻 Fullstack developer (Web, App & Desktop)
+- 🤖 DevOps (Docker/K8s) 
+- 🌱 GenAI
+- <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/ca0621e0-49aa-47f4-b548-7e55f0189c8e" /> Embeded & Robotics enthusiast
 - 📫 misokalya@yahoo.com
 
 <!---

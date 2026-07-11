@@ -1,11 +1,6 @@
 - 👋 Hi, I’m Miso
-- 💻 Fullstack developer (Web, App & Desktop)
+- 💻 Fullstack developer
 - 🤖 DevOps (Docker/K8s) 
-- 🌱 GenAI
-- 🧐 Embeded & Robotics enthusiast
+- 🌱 AI & ML
+- 🧐 Embeded, Robotics & Drone enthusiast
 - 📫 misokalya@yahoo.com
-
-<!---
-misokalya/misokalya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

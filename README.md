@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Miso
 - 💻 Fullstack developer
-- 🤖 DevOps (Docker/K8s) 
-- 🌱 AI & ML
+- 🤖 AI & ML
 - 🧐 Embeded, Robotics & Drone enthusiast
 - 📫 misokalya@yahoo.com
